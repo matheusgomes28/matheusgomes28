@@ -3,7 +3,7 @@
 I blog about coding things. I also like to contribute to cool open-source projects out there! 
 
 - 🔭 I’m currently working on improving the quality of popular git repos I have,
-      and beefing up my content on my website & Youtube channel.
+      and beefing up the content on my website & Youtube channel.
 - 🌱 I’m currently learning cloud development, advanced CI/CD, ML things.
 - 👯 I’m looking to collaborate on anything that peaks my interest!
 - 🤔 I’m looking for help with maintaining my [Base64 C++ implementation](https://github.com/matheusgomes28/base64pp). 
