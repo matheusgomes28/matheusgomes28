@@ -6,7 +6,7 @@ I blog about coding things. I also like to contribute to cool open-source projec
       and beefing up the content on my website & Youtube channel.
 - 🌱 I’m currently learning cloud development, advanced CI/CD, ML things.
 - 👯 I’m looking to collaborate on anything that peaks my interest!
-- 🤔 I’m looking for help with maintaining my [Base64 C++ implementation](https://github.com/matheusgomes28/base64pp). 
+- 🤔 I’m looking for help with maintaining my CMS [Urchin](https://github.com/matheusgomes28/urchin). 
 - 💬 Ask me about C++ or anything coding related.
 - 📫 How to reach me: I'm always online on my [discord channel](https://discord.com/invite/8CvRcsjPAN)!
 - 😄 Pronouns: he/him
