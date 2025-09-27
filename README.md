@@ -10,7 +10,7 @@ I blog about coding things. I also like to contribute to cool open-source projec
 - 💬 Ask me about C++ or anything coding related.
 - 📫 How to reach me: I'm always online on my [discord channel](https://discord.com/invite/8CvRcsjPAN)!
 - 😄 Pronouns: he/him
-- ⚡ Fun facts: I was born in Sao Paulo, Brazil, and lived there for 12 years.
+- ⚡ Random fact: I was born in Sao Paulo, Brazil, and lived there for 12 years.
       I'm getting into ~~DJ-ing with my new Pioneer ddj~~ (didn't last long)!
 
 ### Contribution Chart
